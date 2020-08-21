@@ -1,5 +1,5 @@
 # Rotation
-## Usage - 
+> ## Usage 
 ```
 npm install
 npm start
